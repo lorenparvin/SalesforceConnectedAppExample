@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F4F69C35-38F7-44DB-BA21-B38F37EBA702}|Default">
+  <MonoDevelop.Ide.ItemProperties.SalesforceAuthExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SalesforceAuthExample/Program.cs">
+    <Files>
+      <File FileName="SalesforceAuthExample/Program.cs" Line="21" Column="101" />
+      <File FileName="SalesforceAuthExample/SalesforceTokenService.cs" Line="1" Column="1" />
+      <File FileName="SalesforceAuthExample/SalesforceTokenResponse.cs" Line="1" Column="1" />
+      <File FileName="SalesforceAuthExample/SalesforceQueryService.cs" Line="1" Column="1" />
+      <File FileName="SalesforceAuthExample/SalesforceOptions.cs" Line="1" Column="1" />
+      <File FileName="SalesforceAuthExample/SalesforceClaimUpdateService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SalesforceAuthExample" expanded="True">
+            <Node name="SalesforceAuthExample" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
